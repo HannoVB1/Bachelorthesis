@@ -1,0 +1,158 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{MoonCraterTycho2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d2778808ad4f831b7ea2a22c369abe6}{%
+           family={MoonCraterTycho},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \strng{fullhash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \strng{bibnamehash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \strng{authorbibnamehash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \strng{authornamehash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \strng{authorfullhash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{The Ancient Egyptian Lunar Calendar}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.mooncratertycho.com/the-ancient-egyptian-lunar-calendar/#:~:text=It served as a symbol,nature of life and death.
+      \endverb
+      \verb{url}
+      \verb https://www.mooncratertycho.com/the-ancient-egyptian-lunar-calendar/#:~:text=It%20served%20as%20a%20symbol,nature%20of%20life%20and%20death.
+      \endverb
+    \endentry
+    \entry{Brahmana2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e9f28fa8edef3a13da3f91773cad79a}{%
+           family={Rayenda\bibnamedelima Brahmana},
+           familyi={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Zamri\bibnamedelima Ahmad},
+           giveni={Z\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           suffix={Chee-Wooi\bibnamedelima Hooy},
+           suffixi={C\bibinithyphendelim W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           suffixun=0}}%
+      }
+      \strng{namehash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \strng{fullhash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \strng{bibnamehash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \strng{authorbibnamehash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \strng{authornamehash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \strng{authorfullhash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{Payment required to read this study}
+      \field{title}{Moon phase effect on investor psychology and stoc trading performance}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.emerald.com/insight/content/doi/10.1108/IJSE-04-2012-0134/full/html
+      \endverb
+      \verb{url}
+      \verb https://www.emerald.com/insight/content/doi/10.1108/IJSE-04-2012-0134/full/html
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{MoonCraterTycho2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d2778808ad4f831b7ea2a22c369abe6}{%
+           family={MoonCraterTycho},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \strng{fullhash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \strng{bibnamehash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \strng{authorbibnamehash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \strng{authornamehash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \strng{authorfullhash}{6d2778808ad4f831b7ea2a22c369abe6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{The Ancient Egyptian Lunar Calendar}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.mooncratertycho.com/the-ancient-egyptian-lunar-calendar/#:~:text=It served as a symbol,nature of life and death.
+      \endverb
+      \verb{url}
+      \verb https://www.mooncratertycho.com/the-ancient-egyptian-lunar-calendar/#:~:text=It%20served%20as%20a%20symbol,nature%20of%20life%20and%20death.
+      \endverb
+    \endentry
+    \entry{Brahmana2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e9f28fa8edef3a13da3f91773cad79a}{%
+           family={Rayenda\bibnamedelima Brahmana},
+           familyi={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Zamri\bibnamedelima Ahmad},
+           giveni={Z\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           suffix={Chee-Wooi\bibnamedelima Hooy},
+           suffixi={C\bibinithyphendelim W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           suffixun=0}}%
+      }
+      \strng{namehash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \strng{fullhash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \strng{bibnamehash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \strng{authorbibnamehash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \strng{authornamehash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \strng{authorfullhash}{7e9f28fa8edef3a13da3f91773cad79a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{Payment required to read this study}
+      \field{title}{Moon phase effect on investor psychology and stoc trading performance}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.emerald.com/insight/content/doi/10.1108/IJSE-04-2012-0134/full/html
+      \endverb
+      \verb{url}
+      \verb https://www.emerald.com/insight/content/doi/10.1108/IJSE-04-2012-0134/full/html
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{SabiEtAl2016}
+\endrefsection
+\endinput
+

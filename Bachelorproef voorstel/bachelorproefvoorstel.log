@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.8.20)  13 DEC 2023 11:55
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.8.20)  13 DEC 2023 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1377,26 +1377,26 @@ Package csquotes Info: Redefining alias 'default' -> 'dutch'.
  (bachelorproefvoorstel.aux)
 \openout1 = `bachelorproefvoorstel.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
 Package biblatex Info: Trying to load language 'dutch' -> 'dutch-apa'...
 Package biblatex Info: ... file 'dutch-apa.lbx' found.
 
@@ -1424,15 +1424,23 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `bachelorproefvoorstel.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'bachelorproefvoorstel.bbl' not found.
+Package biblatex Info: ... file 'bachelorproefvoorstel.bbl' found.
+ (bachelorproefvoorstel.bbl
 
-No file bachelorproefvoorstel.bbl.
-Package biblatex Info: Reference section=0 on input line 45.
-Package biblatex Info: Reference segment=0 on input line 45.
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                SabiEtAl2016
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 43.
+Package biblatex Info: Reference segment=0 on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 45.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 45.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 43.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1467,60 +1475,47 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 45.
+Package hyperref Info: Link coloring ON on input line 43.
 (bachelorproefvoorstel.out) (bachelorproefvoorstel.out)
 \@outlinefile=\write4
 \openout4 = `bachelorproefvoorstel.out'.
 
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 49.
+(Font)              scaled to size 9.00096pt on input line 46.
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 49.
+(Font)              scaled to size 6.00064pt on input line 46.
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 49.
+(Font)              scaled to size 5.00053pt on input line 46.
 LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 49.
+(Font)              scaled to size 8.99904pt on input line 46.
 LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 49.
+(Font)              scaled to size 5.99936pt on input line 46.
 LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 49.
-
-Missing character: There is no ∘ in font Fira Math Regular/OT:script=math;langu
-age=dflt;+ssty=1;!
-Missing character: There is no ∘ in font Fira Math Regular/OT:script=math;langu
-age=dflt;+ssty=1;!
+(Font)              scaled to size 4.99947pt on input line 46.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 49.
+ mdframed uses option nobreak mdframed on input line 46.
+
 (bachelorproefvoorstel.toc)
 \tf@toc=\write5
 \openout5 = `bachelorproefvoorstel.toc'.
 
 
-
-LaTeX Warning: Citation 'Hykes2013' on page 1 undefined on input line 56.
-
-LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 58.
-LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 7.20076pt on input line 58.
-LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 5.80061pt on input line 58.
-LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 58.
-LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 7.19922pt on input line 58.
-LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 5.79938pt on input line 58.
-
-Overfull \hbox (10.24901pt too wide) in paragraph at lines 64--65
-\TU/Montserrat(2)/m/n/10 genschappen maken deze oplossing perfect: Ynow-
+Overfull \hbox (13.51234pt too wide) in paragraph at lines 57--58
+[]\TU/Montserrat(2)/m/n/10 Door middel van geautomatiseerde data-analyse,
  []
 
 
-LaTeX Warning: Citation 'SabiEtAl2016' on page 1 undefined on input line 74.
+Overfull \hbox (14.65234pt too wide) in paragraph at lines 57--58
+\TU/Montserrat(2)/m/n/10 machine learning-algoritmen en diepgaande markt-
+ []
 
 
-LaTeX Warning: Citation '' on page 1 undefined on input line 74.
+Overfull \hbox (5.25371pt too wide) in paragraph at lines 57--58
+\TU/Montserrat(2)/m/n/10 aanwezigheid van correlaties te identificeren, maar
+ []
+
+
+LaTeX Warning: Citation 'Marquez2023' on page 1 undefined on input line 66.
 
 File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <img/HOGENT_Logo_Pos_rgb.png>
@@ -1528,26 +1523,41 @@ File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 
 
 ]
+
+LaTeX Warning: Citation 'SabiEtAl2016' on page 2 undefined on input line 74.
+
+
+LaTeX Warning: Citation '' on page 2 undefined on input line 74.
+
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 79.
+(Font)              scaled to size 10.00107pt on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
+(Font)              scaled to size 7.20076pt on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
+(Font)              scaled to size 5.80061pt on input line 80.
 LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 79.
+(Font)              scaled to size 9.99893pt on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
+(Font)              scaled to size 7.19922pt on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
+(Font)              scaled to size 5.79938pt on input line 80.
 
-Overfull \hbox (1.19235pt too wide) in paragraph at lines 92--93
-\TU/Montserrat(2)/m/n/10 flash-geheugen geheugenruimte op een UNIVAC;
+Overfull \hbox (24.39919pt too wide) in paragraph at lines 80--80
+\TU/Montserrat(2)/m/n/10 Lunar Calendar. [][]$[][][][][] [] [] [] [][][] [] [][
+][][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (9.69238pt too wide) in paragraph at lines 99--100
-[]\TU/Montserrat(2)/m/n/10 In dit artikel hebben we aangetoond dat Scheme
+Overfull \hbox (6.31065pt too wide) in paragraph at lines 80--80
+[][][] [] [][][] [][] [][][][][][][] [][] [][][][][][][][] [][] [][][][][] [][]
+ [][][][][][][][] []
  []
-
-
-LaTeX Warning: Empty bibliography on input line 101.
 
 File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <img/HOGENT_Logo_Pos_rgb.png>
-[2] 
+[2
+
+] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (bachelorproefvoorstel.aux)
  ***********
@@ -1559,7 +1569,7 @@ L3 programming layer <2023-08-11>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `bachelorproefvoorstel.out' has not changed.
-(rerunfilecheck)             Checksum: 02D609A73A2B7513237D5EF8AEB75124;705.
+(rerunfilecheck)             Checksum: BD243A9F4019A8116CDCB0DB6A3BCC02;606.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                bachelorproefvoorstel
@@ -1570,12 +1580,12 @@ Package logreq Info: Writing requests to 'bachelorproefvoorstel.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27475 strings out of 410634
- 514654 string characters out of 5789839
- 1943879 words of memory out of 5000000
- 48184 multiletter control sequences out of 15000+600000
- 562327 words of font info for 114 fonts, out of 8000000 for 9000
+ 27488 strings out of 410634
+ 514801 string characters out of 5789839
+ 1938879 words of memory out of 5000000
+ 48209 multiletter control sequences out of 15000+600000
+ 561695 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,12n,128p,1436b,3838s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,12n,128p,920b,5073s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on bachelorproefvoorstel.pdf (2 pages).

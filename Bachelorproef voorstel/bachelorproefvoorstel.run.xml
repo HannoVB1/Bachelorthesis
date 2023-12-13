@@ -82,7 +82,7 @@
       <file>bachelorproefvoorstel.bcf</file>
     </requires>
     <requires type="editable">
-      <file>voorstel.bib</file>
+      <file>bronnen.bib</file>
     </requires>
   </external>
 </requests>

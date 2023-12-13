@@ -16,13 +16,4 @@
   url       = {https://books.google.be/books?hl=en&lr=&id=bKKzEAAAQBAJ&oi=fnd&pg=PA271&dq=cryptocurrency+behavior+moon&ots=PSmxhpRaxG&sig=IVjVXrPq1UMfFBONXsoTKHguxxQ&redir_esc=y#v=onepage&q=cryptocurrency behavior moon&f=false},
 }
 
-@Article{Brahmana2014,
-  author = {Rayenda Brahmana, Chee-Wooi Hooy, Zamri Ahmad},
-  title  = {Moon phase effect on investor psychology and stoc trading performance},
-  year   = {2014},
-  month  = mar,
-  note   = {Payment required to read this study},
-  url    = {https://www.emerald.com/insight/content/doi/10.1108/IJSE-04-2012-0134/full/html},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}

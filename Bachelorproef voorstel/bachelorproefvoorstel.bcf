@@ -3056,11 +3056,13 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">voorstel.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">bronnen.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Hykes2013</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">SabiEtAl2016</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">MoonCraterTycho2023</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Marquez2023</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Brahmana2014</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">SabiEtAl2016</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
