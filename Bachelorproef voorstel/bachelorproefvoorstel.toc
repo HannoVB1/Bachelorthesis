@@ -1,7 +1,17 @@
 \babel@toc {dutch}{}\relax 
 \contentsline {section}{\numberline {1}Inleiding}{1}{section.1}%
-\contentsline {section}{\numberline {2}Literatuurstudie}{1}{section.2}%
-\contentsfinish 
+\contentsline {section}{\numberline {2}Literatuurstudie}{2}{section.2}%
 \contentsline {section}{\numberline {3}Methodologie}{2}{section.3}%
-\contentsline {section}{\numberline {4}Verwacht resultaat, conclusie}{2}{section.4}%
-\contentsline {section}{Referenties}{2}{section.4}%
+\contentsline {subsection}{\numberline {3.1}Voorbereiding}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Verzamel Maancyclus Data}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Verzamel Cryptocurrency Data}{2}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Samenvoegen}{2}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Data Cleaning}{2}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Model Training}{3}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Fine-tuning}{3}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Conclusies Trekken}{3}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Rapporteren}{3}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Gant Chart}{3}{subsection.3.10}%
+\contentsline {section}{\numberline {4}Verwacht resultaat, conclusie}{3}{section.4}%
+\contentsline {section}{Referenties}{3}{section.4}%
+\contentsfinish 

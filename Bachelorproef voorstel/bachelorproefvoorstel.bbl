@@ -19,6 +19,107 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Binance©2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d84e47cf0c124a31b9feadd67235217d}{%
+           family={Binance©},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{d84e47cf0c124a31b9feadd67235217d}
+      \strng{fullhash}{d84e47cf0c124a31b9feadd67235217d}
+      \strng{bibnamehash}{d84e47cf0c124a31b9feadd67235217d}
+      \strng{authorbibnamehash}{d84e47cf0c124a31b9feadd67235217d}
+      \strng{authornamehash}{d84e47cf0c124a31b9feadd67235217d}
+      \strng{authorfullhash}{d84e47cf0c124a31b9feadd67235217d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Binance API}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.binance.com/en/binance-api
+      \endverb
+      \verb{url}
+      \verb https://www.binance.com/en/binance-api
+      \endverb
+    \endentry
+    \entry{Floros2013}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a2743a1198133632838295a7986bb607}{%
+           family={Floros},
+           familyi={F\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ebb4b61778730bd2b71725f143c87dc4}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{efb30cb1232f406f84ecc13cab38e177}
+      \strng{fullhash}{efb30cb1232f406f84ecc13cab38e177}
+      \strng{bibnamehash}{efb30cb1232f406f84ecc13cab38e177}
+      \strng{authorbibnamehash}{efb30cb1232f406f84ecc13cab38e177}
+      \strng{authornamehash}{efb30cb1232f406f84ecc13cab38e177}
+      \strng{authorfullhash}{efb30cb1232f406f84ecc13cab38e177}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Moon Phases, Mood and Stock Market Returns: International Evidence}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/abs/10.1177/0972652712473405
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/abs/10.1177/0972652712473405
+      \endverb
+    \endentry
+    \entry{Lunarcycles2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c28ffcffa46bd1df2c1178704c94cf0}{%
+           family={Marquez},
+           familyi={M\bibinitperiod},
+           given={Fausto\bibnamedelimb Pedro\bibnamedelima Garcia},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \strng{fullhash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \strng{bibnamehash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \strng{authorbibnamehash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \strng{authornamehash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \strng{authorfullhash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Do Lunar Cycles Affect Bitcoin Prices?}
+      \field{year}{2023}
+      \field{pages}{271\bibrangedash 280}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://books.google.be/books?hl=en&lr=&id=bKKzEAAAQBAJ&oi=fnd&pg=PA271&dq=cryptocurrency+behavior+moon&ots=PSmxhpRaxG&sig=IVjVXrPq1UMfFBONXsoTKHguxxQ&redir_esc=y#v=onepage&q=cryptocurrency behavior moon&f=false
+      \endverb
+      \verb{url}
+      \verb https://books.google.be/books?hl=en&lr=&id=bKKzEAAAQBAJ&oi=fnd&pg=PA271&dq=cryptocurrency+behavior+moon&ots=PSmxhpRaxG&sig=IVjVXrPq1UMfFBONXsoTKHguxxQ&redir_esc=y#v=onepage&q=cryptocurrency%20behavior%20moon&f=false
+      \endverb
+    \endentry
     \entry{MoonCraterTycho2023}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6d2778808ad4f831b7ea2a22c369abe6}{%
@@ -86,6 +187,107 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Binance©2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d84e47cf0c124a31b9feadd67235217d}{%
+           family={Binance©},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{d84e47cf0c124a31b9feadd67235217d}
+      \strng{fullhash}{d84e47cf0c124a31b9feadd67235217d}
+      \strng{bibnamehash}{d84e47cf0c124a31b9feadd67235217d}
+      \strng{authorbibnamehash}{d84e47cf0c124a31b9feadd67235217d}
+      \strng{authornamehash}{d84e47cf0c124a31b9feadd67235217d}
+      \strng{authorfullhash}{d84e47cf0c124a31b9feadd67235217d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Binance API}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.binance.com/en/binance-api
+      \endverb
+      \verb{url}
+      \verb https://www.binance.com/en/binance-api
+      \endverb
+    \endentry
+    \entry{Floros2013}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a2743a1198133632838295a7986bb607}{%
+           family={Floros},
+           familyi={F\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ebb4b61778730bd2b71725f143c87dc4}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{efb30cb1232f406f84ecc13cab38e177}
+      \strng{fullhash}{efb30cb1232f406f84ecc13cab38e177}
+      \strng{bibnamehash}{efb30cb1232f406f84ecc13cab38e177}
+      \strng{authorbibnamehash}{efb30cb1232f406f84ecc13cab38e177}
+      \strng{authornamehash}{efb30cb1232f406f84ecc13cab38e177}
+      \strng{authorfullhash}{efb30cb1232f406f84ecc13cab38e177}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Moon Phases, Mood and Stock Market Returns: International Evidence}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/abs/10.1177/0972652712473405
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/abs/10.1177/0972652712473405
+      \endverb
+    \endentry
+    \entry{Lunarcycles2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c28ffcffa46bd1df2c1178704c94cf0}{%
+           family={Marquez},
+           familyi={M\bibinitperiod},
+           given={Fausto\bibnamedelimb Pedro\bibnamedelima Garcia},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \strng{fullhash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \strng{bibnamehash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \strng{authorbibnamehash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \strng{authornamehash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \strng{authorfullhash}{0c28ffcffa46bd1df2c1178704c94cf0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Do Lunar Cycles Affect Bitcoin Prices?}
+      \field{year}{2023}
+      \field{pages}{271\bibrangedash 280}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://books.google.be/books?hl=en&lr=&id=bKKzEAAAQBAJ&oi=fnd&pg=PA271&dq=cryptocurrency+behavior+moon&ots=PSmxhpRaxG&sig=IVjVXrPq1UMfFBONXsoTKHguxxQ&redir_esc=y#v=onepage&q=cryptocurrency behavior moon&f=false
+      \endverb
+      \verb{url}
+      \verb https://books.google.be/books?hl=en&lr=&id=bKKzEAAAQBAJ&oi=fnd&pg=PA271&dq=cryptocurrency+behavior+moon&ots=PSmxhpRaxG&sig=IVjVXrPq1UMfFBONXsoTKHguxxQ&redir_esc=y#v=onepage&q=cryptocurrency%20behavior%20moon&f=false
+      \endverb
+    \endentry
     \entry{MoonCraterTycho2023}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6d2778808ad4f831b7ea2a22c369abe6}{%
@@ -152,7 +354,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{SabiEtAl2016}
 \endrefsection
 \endinput
 
